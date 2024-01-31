@@ -1,0 +1,27 @@
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+.Link {
+  margin-right: 8px;
+}
+
+.Form {
+  margin-bottom: 20px;
+}
+#Fmessage {
+  height: 40px;
+  margin-bottom: 20px;
+  width: 150px;
+}
+#Fmessage::-webkit-input-placeholder {
+  font-size: 1em;
+  position: relative;
+  top: -15px;
+}
+#Iframe {
+  height: 200px;
+  width: 1650px;
+}
